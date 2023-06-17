@@ -10,7 +10,7 @@ Film Öneri Sistemi, kullanıcının ilgi duyduğu film türlerine dayalı olara
 
 1. Python'u bilgisayarınıza yükleyin. [Python indirme sayfası](https://www.python.org/downloads/) üzerinden uygun sürümü seçerek indirin ve kurulumu tamamlayın.
 
-2. Bu projeyi bilgisayarınıza klonlayın. GitHub deposuna gidin ve sağ üst köşede bulunan "Code" düğmesine tıklayarak projeyi ZIP olarak indirin ya da `git clone` komutunu kullanarak projeyi klonlayın.
+2. Bu projeyi bilgisayarınıza klonlayın. GitHub deposuna gidin ve sağ üst köşede bulunan "Code" düğmesine tıklayarak projeyi ZIP olarak indirin ya da `git clone` komutunu kullanarak projeyi klonlayın. <3
 
     ```bash
     git clone https://github.com/kullanici/adresi.git
